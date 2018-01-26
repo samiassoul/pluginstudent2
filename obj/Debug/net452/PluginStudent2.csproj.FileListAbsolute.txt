@@ -1,0 +1,10 @@
+C:\Users\Student_Admin\source\repos\PluginStudent2\PluginStudent2\bin\Debug\net452\PluginStudent2.dll
+C:\Users\Student_Admin\source\repos\PluginStudent2\PluginStudent2\bin\Debug\net452\PluginStudent2.pdb
+C:\Users\Student_Admin\source\repos\PluginStudent2\PluginStudent2\bin\Debug\net452\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Student_Admin\source\repos\PluginStudent2\PluginStudent2\bin\Debug\net452\Microsoft.Xrm.Sdk.dll
+C:\Users\Student_Admin\source\repos\PluginStudent2\PluginStudent2\obj\Debug\net452\PluginStudent2.csproj.CoreCompileInputs.cache
+C:\Users\Student_Admin\source\repos\PluginStudent2\PluginStudent2\obj\Debug\net452\PluginStudent2.AssemblyInfoInputs.cache
+C:\Users\Student_Admin\source\repos\PluginStudent2\PluginStudent2\obj\Debug\net452\PluginStudent2.AssemblyInfo.cs
+C:\Users\Student_Admin\source\repos\PluginStudent2\PluginStudent2\obj\Debug\net452\PluginStudent2.dll
+C:\Users\Student_Admin\source\repos\PluginStudent2\PluginStudent2\obj\Debug\net452\PluginStudent2.pdb
+c:\users\student_admin\source\repos\PluginStudent2\PluginStudent2\obj\Debug\net452\PluginStudent2.csprojResolveAssemblyReference.cache
